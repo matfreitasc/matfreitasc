@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi welcome to my GitHub profile
 
-<!--
-**matfreitasc/matfreitasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here is osme things about me
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my bacelor's degree
+- 🌱 I’m currently learning React.JS and inproving my JavaScript skills
+- 🤔 I’m looking for help with anything that is interesting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Most of the projects you will see below is part of my school portfolio <br/>
+> I personaly think there is no better way of Learning than by doing it!
+
+<br/>
+
+#### **I am currently working on my portifolio soon I will be launching it**

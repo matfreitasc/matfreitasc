@@ -1,14 +1,13 @@
 ### Hi welcome to my GitHub profile
 
-Here is osme things about me
+Here are some things about me
 
 - 🔭 I’m currently working on my Bachelor's degree
-- 🌱 I’m currently learning React.JS and inproving my JavaScript skills
-- 🤔 I’m looking for help with anything that is interesting
+- 🌱 I’m currently learning React.JS and improving my JavaScript skills
 
-> Most of the projects you will see below is part of my school portfolio <br/>
-> I personaly think there is no better way of Learning than by doing it!
+> Most of the projects you will see below are part of my school portfolio <br/>
+> There is no better way of Learning than by doing it!
 
 <br/>
 
-#### **I am currently working on my portifolio soon I will be launching it**
+#### **I am currently working on my portfolio soon I will be launching it**
